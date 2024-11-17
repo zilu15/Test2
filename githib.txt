@@ -1,0 +1,60 @@
+githib:
+
+
+1) to clone the GitHub on vs code
+=> git clone <link>
+
+2) to add files to the GitHub 
+=> git add <file name>
+or 
+   git add .      // to add all the files.
+
+git add commit -m "message"
+
+git remote add origin <link> 
+
+3) to show the changes in the local machine to the GitHub 
+=> git push origin main
+
+4) make a new directory in the local machine
+=>mkdir <file name>
+
+5) init command used to create a new git repo.
+=> git init
+git remote add origin <link>
+git remote -v   (to verify)
+git  branch
+git branch -m main  (to change the name of the branch).
+git push origin main
+
+
+work flow:
+
+GitHub repo
+clone
+changes
+add
+commit
+push
+
+
+6) branch:
+=>git branch (to check current branch)
+git branch -m "name(main)"  (to change the name of the branch)
+git checkout <branch name>    (simillar to cd ie. to switch between the branches)
+git checkout -b <new branch name >    (to create a new branch)
+git branch -d <branch name>   (to delete any branch)
+ 
+7)pull:
+=> git pull origin main 
+
+
+8) merging:
+=> option comes
+
+9) fork:
+copying the content/ code from other repo into our own repo.
+
+
+
+
