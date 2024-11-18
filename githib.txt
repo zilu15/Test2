@@ -56,6 +56,7 @@ git branch -d <branch name>   (to delete any branch)
 
 8) merging:
 => option comes
+git merge <branch name>
 
 9) fork:
 copying the content/ code from other repo into our own repo.
